@@ -1,2 +1,2 @@
 # github-setup-hour
-tutorial 
+GitHub masterclass tutorial 
